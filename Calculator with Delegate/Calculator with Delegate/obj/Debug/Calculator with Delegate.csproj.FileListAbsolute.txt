@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\Calculator with Delegate\Calculator with Delegate\bin\Debug\Calculator with Delegate.exe.config
+C:\Users\User\source\repos\Calculator with Delegate\Calculator with Delegate\bin\Debug\Calculator with Delegate.exe
+C:\Users\User\source\repos\Calculator with Delegate\Calculator with Delegate\bin\Debug\Calculator with Delegate.pdb
+C:\Users\User\source\repos\Calculator with Delegate\Calculator with Delegate\obj\Debug\Calculator with Delegate.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Calculator with Delegate\Calculator with Delegate\obj\Debug\Calculator_with_Delegate.Form1.resources
+C:\Users\User\source\repos\Calculator with Delegate\Calculator with Delegate\obj\Debug\Calculator_with_Delegate.Properties.Resources.resources
+C:\Users\User\source\repos\Calculator with Delegate\Calculator with Delegate\obj\Debug\Calculator with Delegate.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Calculator with Delegate\Calculator with Delegate\obj\Debug\Calculator with Delegate.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Calculator with Delegate\Calculator with Delegate\obj\Debug\Calculator with Delegate.exe
+C:\Users\User\source\repos\Calculator with Delegate\Calculator with Delegate\obj\Debug\Calculator with Delegate.pdb
+C:\Users\User\Desktop\Calculator with Delegate\Calculator with Delegate\bin\Debug\Calculator with Delegate.exe.config
+C:\Users\User\Desktop\Calculator with Delegate\Calculator with Delegate\bin\Debug\Calculator with Delegate.exe
+C:\Users\User\Desktop\Calculator with Delegate\Calculator with Delegate\bin\Debug\Calculator with Delegate.pdb
+C:\Users\User\Desktop\Calculator with Delegate\Calculator with Delegate\obj\Debug\Calculator with Delegate.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Calculator with Delegate\Calculator with Delegate\obj\Debug\Calculator_with_Delegate.Form1.resources
+C:\Users\User\Desktop\Calculator with Delegate\Calculator with Delegate\obj\Debug\Calculator_with_Delegate.Properties.Resources.resources
+C:\Users\User\Desktop\Calculator with Delegate\Calculator with Delegate\obj\Debug\Calculator with Delegate.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Calculator with Delegate\Calculator with Delegate\obj\Debug\Calculator with Delegate.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Calculator with Delegate\Calculator with Delegate\obj\Debug\Calculator with Delegate.exe
+C:\Users\User\Desktop\Calculator with Delegate\Calculator with Delegate\obj\Debug\Calculator with Delegate.pdb
