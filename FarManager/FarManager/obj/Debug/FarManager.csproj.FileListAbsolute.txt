@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\FarManager\FarManager\bin\Debug\FarManager.exe.config
+C:\Users\User\Desktop\FarManager\FarManager\bin\Debug\FarManager.exe
+C:\Users\User\Desktop\FarManager\FarManager\bin\Debug\FarManager.pdb
+C:\Users\User\Desktop\FarManager\FarManager\obj\Debug\FarManager.csprojAssemblyReference.cache
+C:\Users\User\Desktop\FarManager\FarManager\obj\Debug\FarManager.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FarManager\FarManager\obj\Debug\FarManager.exe
+C:\Users\User\Desktop\FarManager\FarManager\obj\Debug\FarManager.pdb
+C:\Users\User\Desktop\CS\PP2\FarManager\FarManager\obj\Debug\FarManager.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CS\PP2\FarManager\FarManager\obj\Debug\FarManager.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CS\PP2\FarManager\FarManager\obj\Debug\FarManager.exe
+C:\Users\User\Desktop\CS\PP2\FarManager\FarManager\obj\Debug\FarManager.pdb
