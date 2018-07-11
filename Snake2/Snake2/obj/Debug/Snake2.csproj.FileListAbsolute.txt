@@ -1,0 +1,16 @@
+C:\Users\User\Snake2\Snake2\bin\Debug\Level1.txt
+C:\Users\User\Snake2\Snake2\bin\Debug\Snake2.exe.config
+C:\Users\User\Snake2\Snake2\bin\Debug\Snake2.exe
+C:\Users\User\Snake2\Snake2\bin\Debug\Snake2.pdb
+C:\Users\User\Snake2\Snake2\obj\Debug\Snake2.csprojAssemblyReference.cache
+C:\Users\User\Snake2\Snake2\obj\Debug\Snake2.csproj.CoreCompileInputs.cache
+C:\Users\User\Snake2\Snake2\obj\Debug\Snake2.exe
+C:\Users\User\Snake2\Snake2\obj\Debug\Snake2.pdb
+C:\Users\User\Desktop\Snake2\Snake2\bin\Debug\Level1.txt
+C:\Users\User\Desktop\Snake2\Snake2\bin\Debug\Snake2.exe.config
+C:\Users\User\Desktop\Snake2\Snake2\bin\Debug\Snake2.exe
+C:\Users\User\Desktop\Snake2\Snake2\bin\Debug\Snake2.pdb
+C:\Users\User\Desktop\Snake2\Snake2\obj\Debug\Snake2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Snake2\Snake2\obj\Debug\Snake2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Snake2\Snake2\obj\Debug\Snake2.exe
+C:\Users\User\Desktop\Snake2\Snake2\obj\Debug\Snake2.pdb
